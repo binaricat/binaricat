@@ -4,12 +4,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/binaricat/Netcatty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Programmer+%E2%80%A2+Beijing.;Building+a+terminal+I'd+actually+enjoy+using.;Electron+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+xterm.js;Open-source+by+default." alt="typing intro">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=binaricat&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
   <a href="https://twitter.com/binaricat">
     <img src="https://img.shields.io/badge/X-%40binaricat-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
@@ -28,7 +22,7 @@ I build developer tools — focused on the parts of the stack people use every d
 - 🛠️ &nbsp; Currently maintaining **[Netcatty](https://github.com/binaricat/Netcatty)** — an SSH workspace, SFTP, and terminals in one.
 - 🧠 &nbsp; Most days I'm deep in **Electron / React / TypeScript / xterm.js**.
 - 🌱 &nbsp; Currently exploring **AI-assisted developer workflows** and **agent runtimes**.
-- ⚡ &nbsp; Fun fact: I name my projects after cats more often than I should — Netcatty, ProxyCatty, netcatty-ios…
+- ⚡ &nbsp; Fun fact: I name my projects after cats more often than I should.
 
 ---
 
