@@ -25,7 +25,7 @@
 
 I build developer tools — focused on the parts of the stack people use every day but rarely fall in love with.
 
-- 🛠️ &nbsp; Currently maintaining **[Netcatty](https://github.com/binaricat/Netcatty)** — an SSH workspace, SFTP, and terminals in one (1.6k+ ⭐).
+- 🛠️ &nbsp; Currently maintaining **[Netcatty](https://github.com/binaricat/Netcatty)** — an SSH workspace, SFTP, and terminals in one.
 - 🧠 &nbsp; Most days I'm deep in **Electron / React / TypeScript / xterm.js**.
 - 🌱 &nbsp; Currently exploring **AI-assisted developer workflows** and **agent runtimes**.
 - ⚡ &nbsp; Fun fact: I name my projects after cats more often than I should — Netcatty, ProxyCatty, netcatty-ios…
@@ -36,11 +36,20 @@ I build developer tools — focused on the parts of the stack people use every d
 
 <p align="center">
   <a href="https://github.com/binaricat/Netcatty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=binaricat&repo=Netcatty&theme=tokyonight&hide_border=true&border_radius=12" alt="Netcatty"/>
+    <img src="https://img.shields.io/github/stars/binaricat/Netcatty?style=for-the-badge&logo=github&label=stars&color=22D3EE" alt="stars"/>
+  </a>
+  <a href="https://github.com/binaricat/Netcatty/network/members">
+    <img src="https://img.shields.io/github/forks/binaricat/Netcatty?style=for-the-badge&logo=github&label=forks&color=22D3EE" alt="forks"/>
+  </a>
+  <a href="https://github.com/binaricat/Netcatty/releases/latest">
+    <img src="https://img.shields.io/github/v/release/binaricat/Netcatty?style=for-the-badge&logo=github&label=release&color=22D3EE" alt="latest release"/>
+  </a>
+  <a href="https://github.com/binaricat/Netcatty/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/binaricat/Netcatty?style=for-the-badge&color=22D3EE" alt="license"/>
   </a>
 </p>
 
-> A modern terminal client that puts SSH, SFTP, Mosh, Telnet, Serial, and local shells under one roof — with built-in AI assistance, snippets, and credential management. Cross-platform: macOS / Windows / Linux. **[Try it →](https://github.com/binaricat/Netcatty/releases)**
+> **[Netcatty](https://github.com/binaricat/Netcatty)** — a modern terminal client that puts SSH, SFTP, Mosh, Telnet, Serial, and local shells under one roof, with built-in AI assistance, snippets, and credential management. Cross-platform: macOS / Windows / Linux. **[Try it →](https://github.com/binaricat/Netcatty/releases)**
 
 ---
 
@@ -52,21 +61,11 @@ I build developer tools — focused on the parts of the stack people use every d
 
 ---
 
-### 📈 GitHub stats
+### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binaricat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" height="180" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=binaricat&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=binaricat&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaricat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" height="180" alt="top languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=binaricat&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="180" alt="wakatime"/>
-</p>
-
----
-
-### 📊 Contribution activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=binaricat&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph"/>
