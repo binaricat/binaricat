@@ -64,11 +64,17 @@ I build developer tools — focused on the parts of the stack people use every d
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=binaricat&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=binaricat&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img alt="streak" src="https://streak-stats.demolab.com?user=binaricat&theme=default&hide_border=true&border_radius=12" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binaricat&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=binaricat&theme=tokyo-night&hide_border=true&radius=12&area=true" />
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=binaricat&theme=github-light&hide_border=true&radius=12&area=true" />
+  </picture>
 </p>
 
 <p align="center">
@@ -84,7 +90,10 @@ I build developer tools — focused on the parts of the stack people use every d
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binaricat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=binaricat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" />
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=binaricat&theme=flat&no-frame=true&row=1&column=7&margin-w=12" />
+  </picture>
 </p>
 
 ---
