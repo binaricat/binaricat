@@ -30,6 +30,12 @@ I build developer tools — focused on the parts of the stack people use every d
 
 <p align="center">
   <a href="https://github.com/binaricat/Netcatty">
+    <img src="https://raw.githubusercontent.com/binaricat/Netcatty/main/public/icon.svg" width="96" alt="Netcatty logo"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/binaricat/Netcatty">
     <img src="https://img.shields.io/github/stars/binaricat/Netcatty?style=for-the-badge&logo=github&label=stars&color=22D3EE" alt="stars"/>
   </a>
   <a href="https://github.com/binaricat/Netcatty/network/members">
