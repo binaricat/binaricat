@@ -1,7 +1,4 @@
-<h1 align="center">
-  Hi, I'm binaricat
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">
-</h1>
+[![GitHub Roast](https://githubroast.icu/api/card/binaricat)](https://githubroast.icu/u/binaricat)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=binaricat&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
@@ -27,12 +24,6 @@ I build developer tools — focused on the parts of the stack people use every d
 ---
 
 ### 🚀 Featured project
-
-<p align="center">
-  <a href="https://github.com/binaricat/Netcatty">
-    <img src="https://raw.githubusercontent.com/binaricat/Netcatty/main/public/icon.svg" width="96" alt="Netcatty logo"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/binaricat/Netcatty">
