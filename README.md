@@ -25,21 +25,6 @@ I build developer tools — focused on the parts of the stack people use every d
 
 ### 🚀 Featured project
 
-<p align="center">
-  <a href="https://github.com/binaricat/Netcatty">
-    <img src="https://img.shields.io/github/stars/binaricat/Netcatty?style=for-the-badge&logo=github&label=stars&color=22D3EE" alt="stars"/>
-  </a>
-  <a href="https://github.com/binaricat/Netcatty/network/members">
-    <img src="https://img.shields.io/github/forks/binaricat/Netcatty?style=for-the-badge&logo=github&label=forks&color=22D3EE" alt="forks"/>
-  </a>
-  <a href="https://github.com/binaricat/Netcatty/releases/latest">
-    <img src="https://img.shields.io/github/v/release/binaricat/Netcatty?style=for-the-badge&logo=github&label=release&color=22D3EE" alt="latest release"/>
-  </a>
-  <a href="https://github.com/binaricat/Netcatty/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/binaricat/Netcatty?style=for-the-badge&color=22D3EE" alt="license"/>
-  </a>
-</p>
-
 > **[Netcatty](https://github.com/binaricat/Netcatty)** — a modern terminal client that puts SSH, SFTP, Mosh, Telnet, Serial, and local shells under one roof, with built-in AI assistance, snippets, and credential management. Cross-platform: macOS / Windows / Linux. **[Try it →](https://github.com/binaricat/Netcatty/releases)**
 
 ---
