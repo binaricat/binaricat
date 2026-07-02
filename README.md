@@ -55,17 +55,3 @@ I build developer tools — focused on the parts of the stack people use every d
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=binaricat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" />
-    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=binaricat&theme=flat&no-frame=true&row=1&column=7&margin-w=12" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <em>"Build the tool you wish existed."</em>
-</p>
