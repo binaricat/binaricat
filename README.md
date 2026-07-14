@@ -1,5 +1,3 @@
-[![GitHub Roast](https://ghfind.com/api/card/binaricat?theme=dark)](https://ghfind.com/u/binaricat)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=binaricat&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
   <a href="https://twitter.com/binaricat">
