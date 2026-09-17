@@ -1,9 +1,11 @@
-<a href="https://ghfind.com/u/binaricat?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/binaricat?theme=dark" />
-    <img src="https://ghfind.com/api/card/mini/binaricat?theme=light" alt="GitHub Roast score card" width="440" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://ghfind.com/u/binaricat?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/binaricat?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/binaricat?theme=light" alt="GitHub Roast score card" width="440" />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=binaricat&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
