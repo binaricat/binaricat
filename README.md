@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binaricat&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="profile views" />
   <a href="https://twitter.com/binaricat">
     <img src="https://img.shields.io/badge/X-%40binaricat-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
   </a>
